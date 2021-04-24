@@ -107,7 +107,7 @@ describe('FlagDropDown', function() {
         areaCodes: null,
       },
       {
-        name: 'Taiwan (台灣)',
+        name: 'Taiwan (中國台灣)',
         iso2: 'tw',
         dialCode: '886',
         priority: 0,
